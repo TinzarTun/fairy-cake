@@ -13,7 +13,7 @@ A minimal and lightweight Tailwind CSS template that works directly in the brows
 
 ## 📂 How to Use
 
-1. **Download or clone the repository:**
+**Download or clone the repository:**
 
 ```bash
 git clone https://github.com/TinzarTun/fairy-cake.git
