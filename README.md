@@ -28,7 +28,3 @@ git clone https://github.com/TinzarTun/fairy-cake.git
 No build process, no terminal commands — just open the file and you're good to go.
 
 ---
-
-## ❤️ Author
-
-Made with 💚 by [Tinzar Tun](https://github.com/TinzarTun)
