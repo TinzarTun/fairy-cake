@@ -26,5 +26,3 @@ git clone https://github.com/TinzarTun/fairy-cake.git
 2. **Open `index.html` in your browser**
 
 No build process, no terminal commands — just open the file and you're good to go.
-
----
